@@ -1,0 +1,7 @@
+per compilare il programma lanciare make da dentro la cartella.
+
+per eseguire il programma lanciare l'eseguibile ./main.exe
+
+nell'App ci sono alcune sleep per ritardare gli invii dei messaggi, di default è impostato che app1 attende e app2 e app3 inviamo simultaneamente in modo da creare una collisione e far reinviare il messaggio.
+
+
